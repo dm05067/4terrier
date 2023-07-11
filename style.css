@@ -1,3 +1,7 @@
 body {
     background-color: green;
 }
+
+.centre img{
+    border-radius: 20pt;
+}
