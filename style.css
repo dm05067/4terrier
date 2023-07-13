@@ -5,3 +5,8 @@ body {
 img {
     border-radius: 10pt;
 }
+
+nav {
+    display: flex;
+    flex-direction: column;
+}
