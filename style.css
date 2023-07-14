@@ -25,3 +25,8 @@ nav {
     text-decoration: none;
     font-size: 30px;
 }
+
+.topnav a:hover {
+    background-color: grey;
+    color:black:
+}
