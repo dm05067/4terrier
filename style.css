@@ -10,3 +10,18 @@ nav {
     display: flex;
     flex-direction: column;
 }
+
+.topnav {
+    background-color: lightgrey;
+    overflow: hidden;
+}
+
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+}
